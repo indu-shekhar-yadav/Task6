@@ -1,5 +1,8 @@
+"peerDependencies": {
+  "react": "^18.0.0"
+}
 {
-  "name": "portfolio-project-2022",
+  "name": "portfolio-in",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
